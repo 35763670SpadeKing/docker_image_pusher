@@ -1,6 +1,5 @@
 --platform=linux/arm64 nginx
---platform=linux/arm64 mysql:5.7.41
---platform=linux/arm64 mysql:5.7.43
+--platform=linux/arm64 mysql
 --platform=linux/arm64 zookeeper
 #支持私库
 #支持指定架构
