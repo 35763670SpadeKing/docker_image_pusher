@@ -1,4 +1,5 @@
 --platform=linux/arm64 nginx
+nacos:2.3.2
 #--platform=linux/arm64 mysql
 #支持私库
 #支持指定架构
