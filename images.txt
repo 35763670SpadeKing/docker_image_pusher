@@ -1,5 +1,5 @@
 #--platform=linux/arm64 nginx
-atmoz/sftp
+ghcr.io/home-assistant/home-assistant:stable
 #nacos/nacos-server:v2.3.2
 #--platform=linux/x64 mysql
 #支持私库
