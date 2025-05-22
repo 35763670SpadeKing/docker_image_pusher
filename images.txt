@@ -1,4 +1,4 @@
-#--platform=linux/arm64  nginx
+--platform=linux/arm64  nginx
 kodcloud/kodbox
 redis:alpine
 rocketmq:5.3.0
