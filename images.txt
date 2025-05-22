@@ -1,7 +1,7 @@
 --platform=linux/arm64  nginx
-kodcloud/kodbox
+# kodcloud/kodbox
 redis:alpine
-rocketmq:5.3.0
+# rocketmq:5.3.0
 #nacos/nacos-server:v2.3.2
 #--platform=linux/x64 mysql
 # 支持私库
