@@ -1,6 +1,7 @@
---platform=linux/arm64  nginx
+#--platform=linux/arm64  nginx
+--platform=linux/arm64 mcr.microsoft.com/mssql/server
 # kodcloud/kodbox
-redis:alpine
+# redis:alpine
 # rocketmq:5.3.0
 #nacos/nacos-server:v2.3.2
 #--platform=linux/x64 mysql
