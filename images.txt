@@ -1,6 +1,6 @@
 #--platform=linux/arm64  nginx
---platform=linux/arm64  mcr.microsoft.com/mssql/server:2019-latest
---platform=linux/arm64  multiarch/qemu-user-static
+#--platform=linux/arm64  mcr.microsoft.com/mssql/server:2019-latest
+qemux/qemu-arm
 # redis:alpine
 # rocketmq:5.3.0
 #nacos/nacos-server:v2.3.2
