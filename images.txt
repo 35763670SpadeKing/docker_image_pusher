@@ -1,7 +1,8 @@
 #--platform=linux/arm64  nginx
 #--platform=linux/arm64  mcr.microsoft.com/mssql/server:2019-latest
 #--platform=linux/arm64 qemux/qemu-arm
---platform=linux/arm64 swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/apecloud/mssql:2022.0.0-linuxarm64
+# --platform=linux/arm64 swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/apecloud/mssql:2022.0.0-linuxarm64
+apacherocketmq/rocketmq-dashboard:latest
 # redis:alpine
 # rocketmq:5.3.0
 #nacos/nacos-server:v2.3.2
