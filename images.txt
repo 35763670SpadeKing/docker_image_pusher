@@ -4,8 +4,8 @@
 # apacherocketmq/rocketmq-dashboard:latest
 # rocketmq:5.3.0
 #qinchz/dm8-arm64:latest
-python:3.12
-redis:7.4
+--platform=linux/arm64  python:3.12
+--platform=linux/arm64  redis:7.4  
 #nacos/nacos-server:v2.3.2
 #--platform=linux/x64 mysql
 # 支持私库
