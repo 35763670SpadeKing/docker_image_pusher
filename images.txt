@@ -7,11 +7,8 @@
 #--platform=linux/arm64  python:3.10
 #--platform=linux/arm64  python:3.13
 #--platform=linux/arm64  python:3.11
-apache/dolphinscheduler-tools:3.3.1
-apache/dolphinscheduler-master:3.3.1
-apache/dolphinscheduler-worker:3.3.1
-apache/dolphinscheduler-api:3.3.1
-apache/dolphinscheduler-alert-server:3.3.1
+bitnami/postgresql:15.2.0
+bitnami/zookeeper:3.7.1
 #nacos/nacos-server:v2.3.2
 #--platform=linux/x64 mysql
 # 支持私库
