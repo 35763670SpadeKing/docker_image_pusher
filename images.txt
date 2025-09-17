@@ -7,7 +7,7 @@
 #--platform=linux/arm64  python:3.10
 #--platform=linux/arm64  python:3.13
 #--platform=linux/arm64  python:3.11
-dinky-standalone-server
+apache/dolphinscheduler-standalone-server:3.3.1
 #nacos/nacos-server:v2.3.2
 #--platform=linux/x64 mysql
 # 支持私库
