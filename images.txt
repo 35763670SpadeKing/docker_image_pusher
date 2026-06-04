@@ -18,8 +18,7 @@
 
 
 # rocketmq
---platform=linux/x86 apacherocketmq/rocketmq-dashboard:5.3.0
-##--platform=linux/x86 apacherocketmq/rocketmq-dashboard:5.3.0
+--platform=linux/x64 apacherocketmq/rocketmq-dashboard:5.3.0
 
 ## redis
 
