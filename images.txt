@@ -14,7 +14,7 @@
 
 ##################不指定默认x64架构##################
 # rocketmq
-apacherocketmq/rocketmq-dashboard:2.0.0
+apacherocketmq/rocketmq-dashboard:2.1.0
 apache/rocketmq:4.9.4
 ## redis
 redis:7.2.4
