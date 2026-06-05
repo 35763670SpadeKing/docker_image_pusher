@@ -15,19 +15,19 @@
 ##################不指定默认x64架构##################
 # rocketmq
 apacherocketmq/rocketmq-dashboard:2.1.0
-apache/rocketmq:4.9.4
+#apache/rocketmq:4.9.4
 ## redis
-redis:7.2.4
+#redis:7.2.4
 ## minio
-minio/minio:RELEASE.2024-03-30T09-41-56Z
+#minio/minio:RELEASE.2024-03-30T09-41-56Z
 
 
 ##################指定arm64###############
 ###MQ
---platform linux/arm64 apache/rocketmq:4.9.4
---platform linux/arm64 apacherocketmq/rocketmq-dashboard:2.1.0
+#--platform linux/arm64 apache/rocketmq:4.9.4
+#--platform linux/arm64 apacherocketmq/rocketmq-dashboard:2.1.0
 ## redis
---platform linux/arm64 redis:7.2.4
+#--platform linux/arm64 redis:7.2.4
 
 ## minio
---platform linux/arm64  minio/minio:RELEASE.2024-03-30T09-41-56Z
+#--platform linux/arm64  minio/minio:RELEASE.2024-03-30T09-41-56Z
